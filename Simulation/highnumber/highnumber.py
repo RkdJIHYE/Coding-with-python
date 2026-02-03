@@ -26,7 +26,6 @@ print(sec)
 
 #M은 반복 횟수
 #k는 최대 반복 횟수
-
 #결과값 저장할 변수 result
 
 result = 0
